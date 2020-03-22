@@ -5,7 +5,7 @@
 [Spring Web](https://spring.io/guides/gs/serving-web-content/)  
 [Bootstrap](https://v3.bootcss.com/getting-started/#download)  
 [Github deploy key](https://developer.github.com/)  
-[Github OAuth]()  
+[Github OAuth](https://developer.github.com/apps/building-github-apps/creating-a-github-app/)  
 
 
 
